@@ -1,0 +1,10 @@
+# Keep assignment inputs and generated reports out of this public skill repository.
+work/
+output/
+outputs/
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+__pycache__/
+.DS_Store

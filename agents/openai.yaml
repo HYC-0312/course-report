@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程报告"
+  short_description: "依据课程要求与资料撰写报告，核对证据、图表和最终版面"
+  default_prompt: "使用 $course-report，根据我提供的课程要求和材料制作一份可提交的报告，并核对内容与最终页面。"
